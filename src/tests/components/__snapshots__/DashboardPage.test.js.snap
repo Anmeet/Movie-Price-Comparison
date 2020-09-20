@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Dashboard Page correctly 1`] = `
+<div
+  className="page-header"
+>
+  <div
+    className="content-container"
+  >
+    <h1
+      className="page-header__title"
+    >
+       Prince's Theartre 
+    </h1>
+    <h2
+      className="page-header__subtitle"
+    >
+      Classic Movies At Home
+    </h2>
+    <p
+      className="page-header__paragraph"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+    </p>
+    <div
+      className="page-body"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="content-container"
+  >
+    <div
+      className="header__content"
+    >
+      <[object Object]
+        className="header__title"
+        to="/movies"
+      >
+        <i
+          className="material-icons"
+          style={
+            Object {
+              "fontSize": "35px",
+            }
+          }
+        >
+          home
+        </i>
+      </[object Object]>
+      <button
+        className="button button--link"
+        onClick={[Function]}
+      >
+        Logout
+      </button>
+    </div>
+  </div>
+</header>
+`;

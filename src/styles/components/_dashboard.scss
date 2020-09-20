@@ -1,0 +1,36 @@
+.page-header {
+  background: $off-white;
+  margin-bottom: $l-size;
+  padding: $l-size 0;
+}
+
+.page-header__title {
+  font-weight: 300;
+  margin: 0;
+  padding-bottom: $m-size;
+  text-align: center;
+}
+
+.page-header__subtitle {
+  font-weight: 200;
+  margin: 0;
+  padding-bottom: $m-size;
+  text-align: center;
+}
+
+.page-header__paragraph {
+  padding-bottom: $m-size;
+  margin: 0;
+  text-align: center;
+}
+
+.page-body {
+  margin-top: $m-size;
+  display: flex;
+  padding: 20px;
+  z-index: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
