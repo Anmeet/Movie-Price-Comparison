@@ -36,8 +36,7 @@ message some times while fetching data from API.
 to the login page.
 10. There is a Not found page. This page is displayed when user visits to any other route that is not assigned in this application.
 11. A loader component is created that displays the spinner until the data is fetched from the API.
-12. Webpack is used to create the React application. webpack.config.js file contains all the configuration of the project such as configuring SCSS, choosing between 
-production, development and test mode and building a bundle file.
+12. Webpack is used to create the React application. webpack.config.js file contains all the configuration of the project such as configuring SCSS, choosing between production, development and test mode and building a bundle file.
 
 
 
