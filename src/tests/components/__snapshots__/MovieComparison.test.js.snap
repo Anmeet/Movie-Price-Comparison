@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render MovieComparison Page correctly 1`] = `
+<div
+  className="page-header"
+>
+  <div
+    className="content-container"
+  >
+    <h1
+      className="page-header__title"
+    >
+       Prince's Theartre
+    </h1>
+    <div>
+      <[object Object]
+        to="/movies"
+      >
+        <button
+          className="button"
+        >
+           
+          <i
+            className="material-icons"
+            style={
+              Object {
+                "fontSize": "26px",
+                "marginLeft": "-10px",
+                "verticalAlign": "middle",
+              }
+            }
+          >
+            chevron_left
+          </i>
+          Back
+        </button>
+      </[object Object]>
+    </div>
+    <div
+      className="movie-single"
+    >
+      <img
+        alt=""
+      />
+      <span>
+         
+      </span>
+      <strong>
+        Cinema World: $
+         
+      </strong>
+      <strong>
+        Film World: $
+      </strong>
+    </div>
+  </div>
+</div>
+`;

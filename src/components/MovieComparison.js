@@ -57,14 +57,25 @@ const MovieComparison = props => {
 
         <div>
           <Link to='/movies'>
-            <button className='button'> <i className="material-icons" style={{ fontSize: '26px', verticalAlign:'middle',marginLeft:'-10px' }}>chevron_left</i>Back</button>
+            <button className='button'>
+              {' '}
+              <i
+                className='material-icons'
+                style={{
+                  fontSize: '26px',
+                  verticalAlign: 'middle',
+                  marginLeft: '-10px',
+                }}
+              >
+                chevron_left
+              </i>
+              Back
+            </button>
           </Link>
         </div>
         <div className='movie-single'>
           <img src={cinemaWorld.Poster} alt='' />
-
           <span>{cinemaWorld.Title} </span>
-
           <strong>Cinema World: ${cinemaWorld.Price} </strong>
           <strong>Film World: ${filmWorld.Price}</strong>
         </div>

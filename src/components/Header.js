@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { startLogout } from '../actions/auth';
+import PropTypes from 'prop-types';
 
 export const Header = ({ startLogout }) => (
   <header className='header'>
@@ -20,6 +21,10 @@ export const Header = ({ startLogout }) => (
     </div>
   </header>
 );
+
+Header.propTypes = {
+  startLogout: PropTypes.func.isRequired,
+};
 
 const mapDispatchToProps = dispatch => ({
   startLogout: () => dispatch(startLogout()),

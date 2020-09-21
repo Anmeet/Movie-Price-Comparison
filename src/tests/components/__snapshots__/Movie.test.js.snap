@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Movie Page correctly 1`] = `
+<div
+  className="movie"
+>
+  <img
+    alt=""
+    src="https://poster.com"
+  />
+  <[object Object]
+    to="/movie/123"
+  >
+    poster name
+  </[object Object]>
+</div>
+`;
