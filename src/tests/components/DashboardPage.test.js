@@ -12,3 +12,8 @@ test('should render the Page Title Correctly', () => {
   const wrapper = shallow(<DashboardPage />);
   expect(wrapper.find('h1').text()).toBe(" Prince's Theartre ");
 });
+
+test('should render the Page Sub Title Correctly', () => {
+  const wrapper = shallow(<DashboardPage />);
+  expect(wrapper.find('h2').text()).toBe('Classic Movies At Home');
+});

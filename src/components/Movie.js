@@ -5,7 +5,9 @@ const Movie = ({ id, poster, title }) => {
   return (
     <div className='movie'>
       <img src={poster} alt='' />
-      <Link to={`/movie/${id}`}><span>{title}</span></Link>
+      <Link to={`/movie/${id}`}>
+        <span>{title}</span>
+      </Link>
     </div>
   );
 };

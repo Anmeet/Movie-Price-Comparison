@@ -11,7 +11,9 @@ exports[`should render Movie Page correctly 1`] = `
   <[object Object]
     to="/movie/123"
   >
-    poster name
+    <span>
+      poster name
+    </span>
   </[object Object]>
 </div>
 `;

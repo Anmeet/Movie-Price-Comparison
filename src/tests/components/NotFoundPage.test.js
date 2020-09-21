@@ -6,6 +6,4 @@ import { shallow } from 'enzyme';
 test('should render NotFoundPage correctly', () => {
   const wrapper = shallow(<NotFound />);
   expect(toJSON(wrapper)).toMatchSnapshot();
-
-
 });
