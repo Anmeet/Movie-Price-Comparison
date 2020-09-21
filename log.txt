@@ -1,0 +1,42 @@
+commit a0e9d0def540fc149ed21b42a574c63bcc02ccab
+Merge: 6e821bb 77ba837
+Author: Anmeet <anmeet619@yahoo.com>
+Date:   Mon Sep 21 19:44:21 2020 +1000
+
+    Merge branch 'master' of github.com:Anmeet/Movie-Price-Comparison
+
+commit 6e821bbf79af6ddc0a81b336fa762d7fc52b6b04
+Author: Anmeet <anmeet619@yahoo.com>
+Date:   Mon Sep 21 19:41:03 2020 +1000
+
+    final commit
+
+commit 77ba8373a15201772c70eef088cabcad800a8c47
+Author: Amit Bhandari <anmeet619@yahoo.com>
+Date:   Mon Sep 21 19:37:21 2020 +1000
+
+    Update README.md
+
+commit 2bac86cd91490d059582967b65ba5cc382a197de
+Author: Amit Bhandari <anmeet619@yahoo.com>
+Date:   Mon Sep 21 19:36:43 2020 +1000
+
+    Create README.md
+
+commit 6792071d340aa1fe4e5110e1a7f2a3c280d5abca
+Author: Anmeet <anmeet619@yahoo.com>
+Date:   Mon Sep 21 16:39:09 2020 +1000
+
+    Successfully deployed at heroku
+
+commit 6f2c1efff754bd303cff0234f2d5a522a0812018
+Author: Anmeet <anmeet619@yahoo.com>
+Date:   Mon Sep 21 14:40:42 2020 +1000
+
+    CSS fixed, testing done, login done
+
+commit 093953e8c954ec3b75b51ce6230550ac6d35b77c
+Author: Anmeet <anmeet619@yahoo.com>
+Date:   Sun Sep 20 15:53:48 2020 +1000
+
+    All functionality completed, CSS Completed,some testing remained
