@@ -1,6 +1,7 @@
 ## Movie-Price-Comparison
 
 ##PREREQUISITES
+
 #Install NodeJs in your computer
 #Install yarn
 
